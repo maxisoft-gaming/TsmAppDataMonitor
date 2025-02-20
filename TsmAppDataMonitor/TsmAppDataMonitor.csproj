@@ -15,6 +15,9 @@
       <Content Include="..\docs\llm\wow_path.md">
         <Link>docs\llm\wow_path.md</Link>
       </Content>
+      <Content Include="..\README.md">
+        <Link>docs\README.md</Link>
+      </Content>
     </ItemGroup>
 
 </Project>
